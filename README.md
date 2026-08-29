@@ -1,2 +1,2 @@
 # BestAlipayFunds
-BestAlipayFunds是世界上最好的支付宝基金推荐助手
+BestAlipayFunds最好的支付宝基金助手
