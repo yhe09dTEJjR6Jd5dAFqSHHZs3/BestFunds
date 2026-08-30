@@ -1,2 +1,1 @@
-# BestAlipayFunds
-BestAlipayFunds最好的支付宝基金助手
+# BestAlipayFunds 最好的支付宝基金助手
